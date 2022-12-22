@@ -12,7 +12,7 @@ function preload(){
 
 function setup() {
   createCanvas(500, 400);
-  //musicSound.loop();
+  musicSound.loop();
   
 }
 
