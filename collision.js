@@ -4,7 +4,7 @@ function collisionVerifier(){
     if (collision){
       playerPositionY = 380;
       collisionSound.play();
-      if (score > 0){
+      if (score > 7){
         score -= 1;
       }
     }
